@@ -14,7 +14,7 @@
 
 当你在Github上看到一个库，你可能会在这里看到一个 Used by，这里就可以看到使用这个库的其他项目
 
-![1582360119429](C:\Users\LMN\AppData\Roaming\Typora\typora-user-images\1582360119429.png)
+![1582360119429](img/1.png)
 
 当然，你也可以在网址后面加上 ```/network/dependents```查看
 
@@ -26,7 +26,7 @@
 
 ## 预览
 
-![1582361854949](C:\Users\LMN\AppData\Roaming\Typora\typora-user-images\1582361854949.png)
+![1582361854949](img/2.png)
 
 ## 用法
 
